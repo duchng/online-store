@@ -99,7 +99,7 @@ internal/assets/migrations/
 
 ## API Documentation
 
-Access the Swagger documentation at `http://localhost:8080/swagger/` for:
+Access the Swagger documentation at `http://localhost:8080/swagger/index.html` or `docs/swagger.json` for:
 - Detailed API endpoints
 - Request/Response schemas
 - Authentication requirements
